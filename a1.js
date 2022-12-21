@@ -95,6 +95,16 @@
 
                console.table(school,['Name ','result']);
 
+//use of loop first 
+ Var a = 1;
+While (a <=10) {
+Document.Write("hello") 
+a = a+1;
+}
+// second method
+for(var a=1; a<=10; a++){
+Document.write("hello world <br>") ;
+
 
 // use charAt
 
