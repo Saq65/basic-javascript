@@ -105,6 +105,13 @@ a = a+1;
 for(var a=1; a<=10; a++){
 Document.write("hello world <br>") ;
 
+//use of map function
+   let arr=[2, 4 , 6, 8];
+   let arr1=arr.map(function (val) {
+    return val * 2;
+}
+Document.write(arr1);
+Console.log(arr1) ;
 
 // use charAt
 
