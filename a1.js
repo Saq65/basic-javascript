@@ -1,4 +1,4 @@
-// java script
+// javascript
 
        // date
 
@@ -130,6 +130,7 @@ console.log('%s have %d cycle','I',1);
 console.log('%c thank you','color:#111;font-size:2rem;')
                
     
+
 
 
 
